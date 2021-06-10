@@ -1,0 +1,479 @@
+* {
+    font-family: 'Syncopate', sans-serif;
+}
+
+body {
+    width: 900px;
+    margin: auto;
+    background-color: white;
+
+}
+
+
+h1 {
+    font-weight: 300;
+    font-size: 3em;
+    margin-bottom: 0;
+}
+
+header {
+    height: 300px;
+    padding-left: 500px;
+    padding-top: 150px;
+    color: black;
+    font-size: 60PX;
+    background-image: url(ggg.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    font-weight: bold;
+    font-style: italic;
+}
+
+nav ul {
+    background-color: black;
+    margin: o;
+    font-weight: bold;
+}
+
+
+nav li {
+    display: inline-block;
+    color: white;
+    padding: 20px;
+    font-style:
+}
+
+nav li:hover {
+    background-color: white;
+    color: black;
+
+}
+
+.ativo {
+    background-color: white;
+    color: black;
+
+
+
+}
+
+.column {
+    float: left;
+    width: 31%;
+    padding: 10px;
+    font-size: 12px;
+    margin-top: 200px;
+    text-align: center;
+
+}
+
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+
+
+
+}
+
+.designdeproduto {
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    margin-left: 50px;
+    text-align: justify;
+    margin-top: -250;
+}
+
+
+p {
+
+    font-family: 'Syncopate', sans-serif;
+
+}
+
+li {
+    font-family: 'Syncopate', sans-serif;
+    font-weight: bold;
+    margin-left: 80px;
+    line-height: 2;
+}
+
+.footer {
+    padding-top: 300px;
+    margin-bottom: 200px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 12px;
+
+}
+
+.nome {
+
+    padding-left: 200px;
+}
+
+.imagem {
+    margin-left: 60px;
+    padding-top: 100px;
+}
+
+.frase {
+    margin-top: -200px;
+    margin-left: 290px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 45px;
+    color: black;
+    line-height: 2
+}
+
+.box {
+    align-content: center;
+}
+
+.texto {
+    margin-top: 100px;
+}
+
+.formação {
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(188, 130, 52);
+
+}
+
+.competências {
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(188, 130, 52);
+    margin-top: 390px;
+}
+
+.interesses {
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(188, 130, 52);
+}
+
+.interesses2 {
+    margin-left: -50px;
+    margin-top: 280px;
+}
+
+h2 {
+    margin-top: 100px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 60px;
+    color: rgb(188, 130, 52);
+    font-family: 'Syncopate', sans-serif;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+h4 {
+    margin-left: 80px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    font-family: 'Syncopate', sans-serif;
+}
+
+.passadeira1 {
+    margin-left: 530px;
+    margin-top: 80px;
+
+
+}
+
+.comunicação {
+
+    font-weight: bold;
+    font-size: 25px;
+    position: absolute;
+    margin-left:50px;
+    text-align: justify;
+    margin-top: -365;
+}
+
+.fotografia {
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(188, 130, 52);
+    position: absolute;
+    text-align: justify;
+    margin-left: 50px;
+    margin-top: -140PX;
+
+
+}
+
+
+.frase2 {
+    margin-top: -680px;
+    margin-left: 690px;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 2;
+    font-style: oblique;
+    color: black;
+
+}
+
+.box3 {
+    margin-top: -170px;
+    line-height: 1.6;
+    text-align: left;
+    margin-right: 400px;
+}
+
+.box4 {
+    margin-left: 400px;
+    margin-top: 200px;
+    line-height: 1.6;
+
+
+}
+
+.imagem2 {
+
+    margin-top: -570px;
+}
+
+
+
+.frase3 {
+    margin-top: 300px;
+    margin-left: 720px;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 2;
+    font-style: oblique;
+    position: absolute;
+}
+
+.interesses {
+    margin-top: 100px;
+}
+
+.KAMU {
+    margin-right: 200px;
+    line-height: 2;
+}
+
+.onossoFADO {
+    margin-right: 500px;
+    line-height: 2;
+}
+
+
+.FOTOGRAFIAANALÓGICA {
+    font-weight: bold;
+    font-size: 60px;
+    font-style: oblique;
+    color: rgb(188, 130, 52);
+    position: absolute;
+    margin-top: 100px;
+    line-height: 2;
+}
+
+.analógicas {
+    margin-top: 450px;
+}
+
+.box5 {
+    margin-top: 100px;
+    line-height: 1.6;
+    text-align: left;
+    margin-right: 400px;
+}
+
+.fado1 {
+    margin-top: -370px;
+    margin-left: 560px;
+}
+
+.box6 {
+    margin-left: 500px;
+    margin-top: 100px;
+
+}
+
+.box7 {
+    margin-top: 10px;
+}
+
+.floreira {
+    margin-top: 130px;
+    font-weight: bold;
+    font-size: 60px;
+    font-style: oblique;
+    color: rgb(188, 130, 52);
+    position: absolute;
+    margin-left: 120px;
+
+}
+
+.imgfloreira {
+    margin-top: 150;
+    margin-left: 330;
+
+}
+
+.textofloreira {
+    position: absolute;
+    margin-top: 350px;
+    line-height: 2;
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: 120px;
+}
+
+.multifunções {
+    font-weight: bold;
+    font-size: 60px;
+    font-style: oblique;
+    color: rgb(188, 130, 52);
+    position: absolute;
+    margin-left: 430px;
+    margin-top: 50px;
+
+}
+
+.imgmultifunções {
+
+    margin-top: 100px;
+}
+
+.textomulti {
+    position: absolute;
+    margin-top: 260px;
+    line-height: 2;
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: 430px;
+}
+
+.matrioska {
+    margin-top: 200px;
+    font-weight: bold;
+    font-size: 60px;
+    position: absolute;
+    font-style: oblique;
+    color: rgb(188, 130, 52);
+    margin-left: 130px;
+}
+
+.imgmatrioska {
+    margin-top: 400px;
+    margin-left: 410px;
+}
+
+.textomatrioska {
+    position: absolute;
+    margin-top: 460px;
+    line-height: 2;
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: 130px;
+}
+
+h5 {
+    font-size: 20px;
+    font-style: oblique;
+
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+a {
+    color: black;
+}
+
+.infografia {
+    margin-top: 130px;
+    font-weight: bold;
+    font-size: 60px;
+    font-style: oblique;
+    color: rgb(188, 130, 52);
+    position: absolute;
+    margin-left: 130px;
+}
+
+.imginfografia {
+    margin-top: 150;
+    margin-left: 300;
+}
+
+.textoinfografia {
+    position: absolute;
+    margin-top: 420px;
+    line-height: 2;
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: 130px;
+
+}
+
+.identidade {
+    margin-top: 200px;
+    font-weight: bold;
+    font-size: 60px;
+    font-style: oblique;
+    color: rgb(188, 130, 52);
+    margin-left: 430px;
+}
+
+.imglinhas {
+    margin-left: -30px;
+
+}
+
+.textolinhas {
+    position: absolute;
+    margin-top: -200px;
+    line-height: 2;
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: 430px;
+
+}
+
+.animação {
+    color: rgb(188, 130, 52);
+}
+
+.textoformação {
+    position: absolute;
+    margin-top: 00px;
+    line-height: 2;
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: 80px;
+
+
+}
+
+.textointeresses {
+    position: absolute;
+    margin-top: 30px;
+    line-height: 2;
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: 80px;
+
+}
+.linguísticas{
+    margin-left: 80px;
+}
+.técnicas{
+    margin-left: 80px;
+}
